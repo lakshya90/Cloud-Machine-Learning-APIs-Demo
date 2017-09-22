@@ -1,1 +1,2 @@
-# CloudML_GDR
+# MachineLearningAPIs
+# Cloud-Machine-Learning-APIs-Demo
